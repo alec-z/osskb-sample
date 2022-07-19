@@ -1,0 +1,37 @@
+{
+  "input-python-snippet-from-stackoverflow.py": [
+    {
+      "id": "snippet",
+      "status": "pending",
+      "lines": "N/A",
+      "oss_lines": "N/A",
+      "matched": "55%",
+      "purl": ["pkg:stackoverflow/64027344"],
+      "vendor": "Maxime Michon",
+      "component": "64027344",
+      "version": "2",
+      "latest": "2",
+      "url": "https://stackoverflow.com/revisions/64027344/2",
+      "release_date": "2020-09-23",
+      "file": "all",
+      "url_hash": "037fdea1e036c304071705c97664a19c",
+      "file_hash": "037fdea1e036c304071705c97664a19c",
+      "source_hash": "e277bbc8e391141071d7a12a9680c402",
+      "file_url": "https://osskb.org/api/file_contents/037fdea1e036c304071705c97664a19c",
+      "licenses": [
+        {
+          "name": "CC-BY-SA-4.0",
+          "patent_hints": "yes",
+          "copyleft": "yes",
+          "checklist_url": "https://www.osadl.org/fileadmin/checklists/unreflicenses/CC-BY-SA-4.0.txt",
+          "osadl_updated": "2022-05-31 16:02",
+          "source": "component_declared"
+        }
+      ],
+      "server": {
+        "version": "4.5.3",
+        "kb_version": { "monthly": "22.06", "daily": "22.07.19" }
+      }
+    }
+  ]
+}
