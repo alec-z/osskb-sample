@@ -2,7 +2,7 @@
 ## This repository is to show the example of OSSKB. 
 The SDK is supported by three languages for now:
 [java](https://github.com/scanoss/scanner.java), [javascript](https://github.com/scanoss/scanoss.js) and [python](https://github.com/scanoss/scanoss.js).
-This [API Document](https://docs.osskb.org) is simple, you can also implement your own SDK by any language.
+The [API Document](https://docs.osskb.org) is simple, you can also implement your own SDK by any language.
 
 Name|Scale|Source Code Language|Input|Middle|Output
 -|-|-|-|-|-
